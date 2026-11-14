@@ -44,7 +44,7 @@ mbed-ls==1.7.12
 mbed-os-tools==0.0.15
 milksnake==0.1.5
 numpy==1.19.5
-oauthlib==3.1.0
+oauthlib==4.0.1
 opt-einsum==3.3.0
 packaging==20.9
 prettytable==0.7.2
